@@ -1,0 +1,17 @@
+debug: false
+proxy:
+  enable: false
+  host: 127.0.0.1
+  port: 7890
+bot:
+  admin-id: 861054315
+  name: KyEnDictionaryBot
+  token: 6363790033:AAEPdXzzswoSUohrbJhR1bl9X9lSCGSpDbc
+  help-text: |
+    你好， 欢迎使用
+    /random 随机来一个单词
+    /guess 猜猜单词
+    /stop 停止猜单词
+stats:
+  domain: https://stats.kylelin1998.com
+  api-key: sk-f5f78722b9ee4d4fbca341ba3463ffd884cb39aa67bb481c8618cbbb667f57872474f2580ab14a1b8cd82bac54f3f9bb
