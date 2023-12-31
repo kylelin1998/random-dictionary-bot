@@ -126,6 +126,12 @@
             <version>3.40.0.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.jodah</groupId>
+            <artifactId>expiringmap</artifactId>
+            <version>0.5.10</version>
+        </dependency>
+
     </dependencies>
 
     <build>

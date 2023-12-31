@@ -15,4 +15,7 @@ public class UserSettingsTableEntity implements TableEntity {
     @TableField(name = "voice_type", sql = "voice_type INTEGER")
     private Integer voiceType;
 
+    @TableField(name = "guess_success_count", sql = "guess_success_count INTEGER")
+    private Integer guessSuccessCount;
+
 }

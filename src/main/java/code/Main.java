@@ -8,6 +8,7 @@ import code.handler.Command;
 import code.handler.Handler;
 import code.handler.MessageHandle;
 import code.repository.EnglishDictionaryRepository;
+import code.repository.GuessRepository;
 import code.repository.UserSettingsRepository;
 import code.util.StatsUtil;
 import com.world.knife.Bot;
@@ -25,6 +26,7 @@ public class Main {
     public static MessageHandle messageHandle = new MessageHandle();
     public final static code.repository.EnglishDictionaryRepository EnglishDictionaryRepository = new EnglishDictionaryRepository();
     public final static code.repository.UserSettingsRepository UserSettingsRepository = new UserSettingsRepository();
+    public final static code.repository.GuessRepository GuessRepository = new GuessRepository();
 
     public static void main(String[] args) {
         LoggerContext loggerContext = (LoggerContext) LoggerFactory.getILoggerFactory();

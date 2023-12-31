@@ -11,6 +11,8 @@ public enum Command {
 
     Start("start", "启动机器人", true),
     RandomCard("random", "随机单词卡片", true),
+    Guess("guess", "猜一猜", true),
+    StopGuess("stop", "停止猜一猜", true),
     Help("help", "帮助", true),
 
     DeleteMessage("0988PLQ", "", false),

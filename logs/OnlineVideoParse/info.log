@@ -1,145 +1,321 @@
-2023-12-31 14:24:06.031 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 17:34:50.374 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 14:24:15.651 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
-2023-12-31 14:24:31.643 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:25:10.816 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:26:42.759 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 17:34:56.684 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 17:34:58.197 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:34:58.198 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:35:09.107 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 17:35:21.961 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 14:26:47.239 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
-2023-12-31 14:26:49.511 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 14:26:49.511 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 14:27:09.616 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 17:35:55.738 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 14:27:15.268 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:27:16.542 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:27:16.543 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:27:35.229 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:27:36.586 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:27:36.587 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:27:55.894 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
-2023-12-31 14:28:08.938 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:35:25.750 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:35:26.986 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:35:26.988 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:35:43.845 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:35:45.823 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:35:45.824 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:35:50.540 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 6, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:35:51.765 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:35:51.766 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:35:52.134 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:36:05.043 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 7, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:36:06.203 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:06.204 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:07.672 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:36:11.387 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 8, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:36:13.289 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:13.290 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:16.634 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 9, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:36:17.921 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:17.921 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:19.814 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:36:24.967 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 10, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:36:26.018 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 10, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:26.019 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 10, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:29.320 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 11, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:36:30.352 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 11, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:30.353 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 11, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:36:30.664 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:36:40.884 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:36:50.838 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:37:02.057 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:37:11.309 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:40:29.174 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 17:35:59.216 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 17:36:01.178 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 17:36:01.180 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 17:36:15.355 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 17:36:15.968 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: , list: [""]
+2023-12-31 17:36:17.256 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 17:36:17.257 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 17:36:32.382 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 17:37:21.055 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 14:40:48.784 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:41:00.023 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:41:14.474 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 17:38:52.923 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 14:41:40.747 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 17:39:00.980 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 17:39:02.731 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 17:39:02.732 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 17:39:06.566 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 17:39:07.455 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:39:07.456 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:39:08.982 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
+2023-12-31 17:39:10.017 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:39:10.018 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:39:15.824 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: null, list: [null]
+2023-12-31 17:39:16.763 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:39:16.764 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 17:39:18.510 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 17:39:30.495 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 17:39:43.322 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 17:39:55.091 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:01:24.438 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 6, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:01:25.831 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:25.832 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:31.001 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 7, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:01:32.183 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:32.184 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:36.827 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 8, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:01:38.023 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:38.024 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:39.959 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 9, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:01:40.910 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:40.912 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:42.325 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 10, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:01:43.556 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 10, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:43.557 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 10, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:45.030 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 11, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:01:46.230 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 11, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:01:46.231 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 11, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:02:02.119 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
+2023-12-31 18:02:17.333 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:02:31.502 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:02:45.834 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:03:01.388 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:03:18.852 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:03:41.607 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 12, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:03:43.569 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 12, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:03:43.571 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 12, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:03:55.434 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:05:16.812 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 13, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:05:22.106 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 13, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:05:22.106 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 13, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:05:39.628 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 14, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:05:41.401 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 14, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:05:41.402 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 14, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:05:45.041 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:06:03.200 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:43:55.613 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 14:41:44.047 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:41:45.396 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:41:45.396 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:42:01.160 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:42:12.980 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:42:24.759 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:42:37.540 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:42:47.754 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:42:57.649 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:42:57.805 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:42:59.051 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:42:59.052 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:43:02.612 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:43:03.672 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:43:03.675 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:43:04.840 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: null, list: [null]
-2023-12-31 14:43:06.060 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:43:06.061 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 14:43:09.672 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:43:22.747 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:43:33.256 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 14:43:48.543 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:01:00.440 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 18:44:18.723 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:44:30.957 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 15:01:03.827 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
-2023-12-31 15:01:05.977 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 15:01:05.978 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 15:01:07.908 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: 1, list: ["1"]
-2023-12-31 15:01:08.452 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: 1, list: ["1","1"], context: {}
-2023-12-31 15:01:08.455 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: 1, list: ["1","1"], context: {}
-2023-12-31 15:01:10.162 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: 2, list: ["2"]
-2023-12-31 15:01:10.689 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: 2, list: ["2","2"], context: {}
-2023-12-31 15:01:10.690 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: 2, list: ["2","2"], context: {}
-2023-12-31 15:01:11.810 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: 1, list: ["1"]
-2023-12-31 15:01:12.335 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: 1, list: ["1","1"], context: {}
-2023-12-31 15:01:12.336 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: 1, list: ["1","1"], context: {}
-2023-12-31 15:01:17.000 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:01:30.863 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:01:45.588 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:02:00.509 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:02:34.567 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 18:45:07.003 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:45:08.751 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:45:08.752 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:45:23.693 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:45:24.762 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:45:24.766 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:45:47.249 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
+2023-12-31 18:46:01.636 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:46:16.629 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:46:30.539 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:46:59.475 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 15:03:07.494 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+2023-12-31 18:47:03.525 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:47:04.079 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:47:04.080 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:47:23.354 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:47:24.578 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:47:24.579 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:47:37.197 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:47:37.724 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:47:37.725 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:47:38.911 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
+2023-12-31 18:47:39.769 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:47:41.148 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:47:41.152 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:47:50.995 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:48:02.093 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:48:13.930 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:48:25.218 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:48:37.297 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
 /Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
-2023-12-31 15:03:11.755 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
-2023-12-31 15:03:13.061 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:03:13.062 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:03:19.136 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: , list: [""]
-2023-12-31 15:03:20.376 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 15:03:20.378 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 15:03:21.861 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: , list: [""]
-2023-12-31 15:03:23.464 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 15:03:23.466 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: , list: ["",""], context: {}
-2023-12-31 15:03:25.516 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: 2, list: ["2"]
-2023-12-31 15:03:26.054 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: 2, list: ["2","2"], context: {}
-2023-12-31 15:03:26.055 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: 2, list: ["2","2"], context: {}
-2023-12-31 15:03:27.060 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 6, chat id: 6962878508, text: null, list: [null]
-2023-12-31 15:03:28.268 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:03:28.269 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:03:32.031 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:03:46.922 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:03:59.132 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:04:11.002 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:04:23.603 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:07:26.167 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 7, chat id: 6962878508, text: null, list: [null]
-2023-12-31 15:07:26.579 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:07:26.584 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:07:46.963 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 8, chat id: 6962878508, text: null, list: [null]
-2023-12-31 15:07:47.404 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:07:47.405 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:07:58.703 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 9, chat id: 6962878508, text: null, list: [null]
-2023-12-31 15:07:59.042 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:07:59.042 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
-2023-12-31 15:08:02.763 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
-2023-12-31 15:08:19.136 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
-2023-12-31 15:08:33.480 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:48:40.343 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:48:41.725 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:48:41.726 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:48:52.243 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:48:53.444 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:48:53.445 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:48:57.194 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:48:59.538 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:49:00.608 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:00.609 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:07.203 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:49:08.335 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:08.336 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:13.593 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 6, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:49:14.503 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:14.503 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 6, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:15.448 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:49:28.466 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:49:29.504 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 7, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:49:30.624 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:30.625 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:39.297 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:49:45.561 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 8, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:49:46.611 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:46.612 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:49:53.506 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:50:00.168 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 9, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:50:01.279 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:50:01.281 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:50:08.632 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:50:23.799 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:50:33.288 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 18:50:35.983 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:50:37.118 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:50:37.119 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:50:49.836 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:50:51.097 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:50:51.098 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:50:55.522 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:50:59.886 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:51:00.854 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:51:00.856 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:51:12.136 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:51:25.974 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:51:40.887 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:51:56.887 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:52:22.765 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 18:52:28.600 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:52:29.751 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:52:29.752 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:52:34.273 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:52:34.870 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:52:34.871 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:52:45.308 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 18:52:50.336 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:52:50.343 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:52:50.344 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:52:53.574 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:52:53.579 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:52:53.579 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:52:55.246 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:52:59.492 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:52:59.492 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:53:02.984 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:53:03.541 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:53:03.543 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:53:07.970 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:53:09.607 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 6, chat id: 6962878508, text: , list: [""]
+2023-12-31 18:53:10.761 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 6, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:53:10.762 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 6, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 18:53:27.474 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:53:45.252 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:53:58.397 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:54:11.422 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 7, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:54:11.685 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:54:12.484 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:54:12.485 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 7, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:54:21.338 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 8, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:54:22.509 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:54:22.510 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 8, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:54:25.240 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:54:26.116 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 9, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:54:26.646 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:54:26.647 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 9, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:54:38.285 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:54:54.390 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:56:40.175 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 18:56:44.926 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:56:46.226 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:56:46.228 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:56:47.946 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 18:56:49.601 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:56:49.602 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 18:57:17.080 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: -1001123408592, text: , list: [""]
+2023-12-31 18:57:18.972 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: -1001123408592, text: , list: ["",""], context: {}
+2023-12-31 18:57:18.973 [telegram-knife-bot-handle-pool-4] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: -1001123408592, text: , list: ["",""], context: {}
+2023-12-31 18:57:45.864 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 5, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 18:57:47.072 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 5, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 18:57:47.073 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 5, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 18:57:53.578 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 6, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 18:57:55.168 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 6, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 18:57:55.172 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 6, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 18:58:24.204 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
+2023-12-31 18:58:40.361 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:58:57.342 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:59:13.241 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:59:27.883 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 18:59:47.973 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:00:07.259 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:10:03.971 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 7, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 19:10:06.195 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 7, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:06.195 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 7, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:11.875 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:10:34.796 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:10:38.406 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 19:10:39.834 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:39.835 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:45.751 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 19:10:47.155 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:47.156 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:48.391 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 19:10:50.497 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:50.497 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:10:55.093 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:11:13.868 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:11:28.441 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:12:56.732 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:12:59.970 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: -1001123408592, text: null, list: [null]
+2023-12-31 19:13:01.224 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:13:01.225 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: -1001123408592, text: null, list: [null,null], context: {}
+2023-12-31 19:13:04.738 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:13:28.560 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:13:54.206 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 19:13:55.860 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:13:55.861 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:14:07.654 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
+2023-12-31 19:14:22.998 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:14:38.443 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:14:43.466 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:14:48.343 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: null, list: [null]
+2023-12-31 19:14:49.582 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:14:49.583 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:15:25.558 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 19:15:26.642 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":5001,"message":"Format fail...","data":null}
+2023-12-31 19:15:26.817 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:15:26.818 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:15:28.658 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: , list: [""]
+2023-12-31 19:15:30.390 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:15:30.391 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:15:39.599 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:15:49.374 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:15:54.406 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 19:15:56.106 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:15:56.106 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:16:00.748 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 19:16:01.832 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:16:01.833 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:16:12.748 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:16:31.464 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:17:21.489 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: null, list: [null]
+2023-12-31 19:17:23.480 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:17:23.481 [telegram-knife-bot-handle-pool-2] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:17:40.820 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:17:50.861 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml
+2023-12-31 19:17:56.378 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 2, chat id: 6962878508, text: , list: [""]
+2023-12-31 19:17:57.503 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:17:57.504 [telegram-knife-bot-handle-pool-0] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 2, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:18:03.270 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 3, chat id: 6962878508, text: null, list: [null]
+2023-12-31 19:18:05.070 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:18:05.070 [telegram-knife-bot-handle-pool-1] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 3, chat id: 6962878508, text: null, list: [null,null], context: {}
+2023-12-31 19:18:13.829 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:18:29.896 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:18:41.910 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:19:08.571 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.init:95] - Steps init, id: 4, chat id: 6962878508, text: , list: [""]
+2023-12-31 19:19:10.880 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:147] - Step, id: 4, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:19:10.881 [telegram-knife-bot-handle-pool-3] INFO  [com.world.knife.steps.StepsHandler.step:151] - Step finish, id: 4, chat id: 6962878508, text: , list: ["",""], context: {}
+2023-12-31 19:19:25.588 [Thread-0] INFO  [code.util.StatsUtil.stats:73] - {"code":200,"message":"SUCCESS","data":true}
+2023-12-31 19:19:50.840 [main] INFO  [code.config.Config.<clinit>:43] - /Users/kylelin1998/project/telegram-bot/random-dictionary-bot
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config
+/Users/kylelin1998/project/telegram-bot/random-dictionary-bot/config/config.yaml

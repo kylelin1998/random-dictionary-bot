@@ -10,7 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 public class UserSettingsRepository extends TableRepository<UserSettingsTableEntity> {
 
     public UserSettingsRepository() {
-        super(Config.DBPath, false);
+        super(Config.DBPath, true);
     }
 
     public synchronized void save(UserSettingsTableEntity entity) {
