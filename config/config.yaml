@@ -1,0 +1,14 @@
+debug: true
+proxy:
+  enable: true
+  host: 127.0.0.1
+  port: 7890
+bot:
+  admin-id: 6962878508
+  name: test_dictionary33333_bot
+  token: 6851151848:AAGO3mG-ZAS61UUzgd9odMsltjwyIWBUagg
+  help-text: |
+    222222
+stats:
+  domain: https://stats.kylelin1998.com
+  api-key: sk-f5f78722b9ee4d4fbca341ba3463ffd884cb39aa67bb481c8618cbbb667f57872474f2580ab14a1b8cd82bac54f3f9bb
